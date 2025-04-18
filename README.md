@@ -39,4 +39,4 @@ This web application visualizes a production line buffer system with one or more
 - `index.html` - Main webpage structure
 - `styles.css` - Styling for the visualization
 - `script.js` - Buffer logic and visualization functionality 
-![Prodsequence screenshot](screenshot.png)
+![Prodsequence screenshot](screenshot.jpg)
