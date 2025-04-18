@@ -1,6 +1,6 @@
 # Production Line Buffer Visualization
 
-This web application visualizes a production line buffer system with one or more parallel buffers. Products are born and fed to buffer. The system processes products in the sequence when possible.
+This web application visualizes a production line buffer system with one or more parallel buffers. Products are born and fed to buffer. The system processes products in the sequence when possible. This tool can be used to study how much "randomness" is allowed to stay in sequence. By increasing number of parallel buffers few random products are ok. Try to play with variables. This was very fun project for me.
 
 ## Features
 
